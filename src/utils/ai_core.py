@@ -6,7 +6,7 @@ import re
 from datetime import datetime, timedelta
 
 MEMORY_FILE = "memory.json"
-HF_API_TOKEN = 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")
+HF_API_TOKEN = "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"
 MODEL_NAME = "HuggingFaceTB/SmolLM3-3B:hf-inference"
 API_URL = "https://router.huggingface.co/v1/chat/completions"
 HEADERS = {
